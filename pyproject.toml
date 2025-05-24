@@ -1,0 +1,30 @@
+[project]
+name = "ai-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=1.2.15",
+    "duckduckgo-search>=8.0.0",
+    "google-genai>=1.10.0",
+    "groq>=0.22.0",
+    "huggingface-hub>=0.30.2",
+    "importlib-metadata>=8.6.1",
+    "lancedb>=0.21.2",
+    "mistral>=20.0.0",
+    "mistralai>=1.6.0",
+    "ollama>=0.4.7",
+    "openai>=1.72.0",
+    "packaging>=24.2",
+    "pgvector>=0.4.0",
+    "psycopg>=3.2.6",
+    "psycopg2-binary>=2.9.10",
+    "pypdf>=5.4.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.0",
+    "sentence-transformers>=4.0.2",
+    "sqlalchemy>=2.0.40",
+    "streamlit>=1.44.1",
+    "voyageai>=0.3.2",
+]
